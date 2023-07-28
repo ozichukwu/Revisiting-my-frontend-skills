@@ -44,11 +44,6 @@ body {
     display: grid;
     grid-template-columns: repeat(2, max-content) 1fr;
 }
-.header > *, ul.navlinks > li, .landing, .landing-top > div, .trusted-by,
-.services, .svc-heading, .svc-heading-pt1, .svc-heading-pt2, .our-offers,
-.portfolio, .portfolio-grid, .about-us, .footer, .footer-area{
-    border: 0.5px solid;
-}
 
 .logo {
     height: 7ch;
